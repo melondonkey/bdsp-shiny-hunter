@@ -1,0 +1,13 @@
+name: bdsp-shinyhunt
+title: bdsp-shinyhunt
+username:
+account: melondonkey
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5268347
+bundleId: 5346970
+url: https://melondonkey.shinyapps.io/bdsp-shinyhunt/
+when: 1638994677.83353
+lastSyncTime: 1638994677.83355
+asMultiple: FALSE
+asStatic: FALSE
